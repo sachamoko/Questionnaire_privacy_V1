@@ -1,0 +1,18 @@
+src/
+|-- components/
+    |-- FormBuilder/
+        |-- elements/
+            |-- layout/
+                |-- index.jsx
+            |-- DateInput.jsx
+            |-- index.jsx
+            |-- NumberInput.jsx
+            |-- RadioInput.jsx
+            |-- TextArea.jsx
+            |-- TextField.jsx
+            |-- TimeInput.jsx
+        |-- constants.js
+        |-- Header.jsx
+        |-- index.jsx
+|-- App.js
+|-- index.js
